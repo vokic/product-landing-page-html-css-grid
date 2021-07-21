@@ -103,7 +103,7 @@ img {
 /* Section B */
 
 .section-b {
-  background: url("./dist/img/stairs.jpg");
+  background: url("dist/img/stairs.jpg");
   position: relative;
   height: 600px;
   background-position: center;
